@@ -1,0 +1,59 @@
+h1{
+    color: #ffffff;
+    text-align: center;
+}
+h5{
+    color: #ffffff;
+    text-align: center;
+}
+
+
+.about{
+    display: flex;
+    justify-content: center;
+    font-family: fantasy;
+    
+
+}
+
+
+
+body{
+    margin: 10px;
+    background-color: #f7f2f2;
+}
+
+.origami{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.o1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+   border-radius: 20px;
+   background-color: #ffffff;
+   padding: 30px;
+   margin:25px;
+   width:310px;
+   font-family: fantasy;
+   font-weight: 400;
+   
+}
+ 
+
+
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: #000000;
+    padding: 50px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+
